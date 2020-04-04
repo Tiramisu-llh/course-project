@@ -4,6 +4,11 @@ import router from './router'
 // import store from './store'
 import ElementUI from 'element-ui' // element-ui的全部组件
 import 'element-ui/lib/theme-chalk/index.css'// element-ui的css
+
+// import 'bootstrap'
+// import 'bootstrap/dist/css/bootstrap.css'
+// import 'bootstrap/dist/js/bootstrap.min.js'
+
 Vue.use(ElementUI) // 使用elementUI
 
 Vue.config.productionTip = false
